@@ -4,7 +4,7 @@ db_config = {
     'dbname': 'myprojectdb',
     'user': 'myuser',
     'password': 'mypassword',
-    'host': 'postgresqlmejust',
+    'host': 'postgresqlme',
     'port': '5432'
 }
 
